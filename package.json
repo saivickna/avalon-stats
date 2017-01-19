@@ -1,0 +1,24 @@
+{
+  "name": "avalon-stats",
+  "version": "1.0.0",
+  "description": "Maintain Avalon Statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saivickna/avalon-stats.git"
+  },
+  "author": "Saivickna Raveendran",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/saivickna/avalon-stats/issues"
+  },
+  "homepage": "https://github.com/saivickna/avalon-stats#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bookshelf": "^0.10.2",
+    "knex": "^0.12.6"
+  }
+}
